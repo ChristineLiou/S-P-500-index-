@@ -1,0 +1,15 @@
+# S&P500 Index Time Series Analysis
+#### Time series ARIMA model is applied to predict S&P 500 index in this project. The data from [Yahoo Finance](https://finance.yahoo.com/quote/%5EGSPC/history?period1=-1325548800&period2=1609200000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true) range from 12/30/1972 to 12/28/2020. 
+Through many visulaization, not only know more about the data but also confirm the result. 
+
+#### Project Outline
+1. Import library
+2. Load data
+3. Data visualization
+4. Test staionarity
+5. Build ARIMA model
+
+#### Reference:
+[A Simple Time Series Analysis Of The S&P 500 Index](https://medium.com/@jdwittenauer/a-simple-time-series-analysis-of-the-s-p-500-index-b12ffdb13cd6#id_token=eyJhbGciOiJSUzI1NiIsImtpZCI6ImQ0Y2JhMjVlNTYzNjYwYTkwMDlkODIwYTFjMDIwMjIwNzA1NzRlODIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJuYmYiOjE2MDc1MzczNjUsImF1ZCI6IjIxNjI5NjAzNTgzNC1rMWs2cWUwNjBzMnRwMmEyamFtNGxqZGNtczAwc3R0Zy5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsInN1YiI6IjExNTc4NjkzNTQ2OTI0OTc5OTUzOSIsImVtYWlsIjoiY2hyaXMubGlvdTAwN0BnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXpwIjoiMjE2Mjk2MDM1ODM0LWsxazZxZTA2MHMydHAyYTJqYW00bGpkY21zMDBzdHRnLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwibmFtZSI6IkNocmlzdGluZSBMaW91IiwicGljdHVyZSI6Imh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hLS9BT2gxNEdoSW5VMFJnc0lOcE5iUE5xQTJQTWpSM1pUWVQ0N0RGdzBNSlJiOWZRPXM5Ni1jIiwiZ2l2ZW5fbmFtZSI6IkNocmlzdGluZSIsImZhbWlseV9uYW1lIjoiTGlvdSIsImlhdCI6MTYwNzUzNzY2NSwiZXhwIjoxNjA3NTQxMjY1LCJqdGkiOiJiM2FiZmVmNWZhNTQxYmJkNTIzZGI4OWQ5MTFkNTcwMzUwMmY4ZWVjIn0.qPYifosJqp3VKqNZhBD_KDeWQhjVXt85LAsj_boaAqKEC_0Boz8PVTmldEc9q_EcFnnbmN82LY9aRZ4-1u_pPQhViE-0BUM41LbiMwtoHlmaYt5SrY9h74OFs5dyb4OtbHPBH1o-ekYODNYTC3H3T7sIxU2_h7PzYuoXagaSt6-JSTUfzGUeZXkSmwN4VRGi1_caxqE900LN1twZ8r-mzYvRVEs9Dgiy0xXj4RGILahZCbm6AP8bxJhzzC1wTmD3o-_Uko-IiEfzV1u1y0zwMsHSPSPbyA5w-l1HRSuQ6xCwwhd3J07EAhOVF1w8jlUNgIe23bNwKqaLF0EnIGBJiA)
+
+[Stock Market Forecasting Using Time Series Analysis](https://www.kdnuggets.com/2020/01/stock-market-forecasting-time-series-analysis.html)
